@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 Hi, I’m João Emanuel
-- 🌱 I’m currently learning Java Spring
+- 🌱 I’m currently learning Microservices
 
 
 <div> 
